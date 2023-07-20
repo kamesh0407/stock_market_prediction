@@ -1,14 +1,14 @@
 <div align="center">
    <centre><h1>STOCK MARKET PREDICTION</centre><br />
       </div>
-Stock price analysis has been a critical area of research and is one of the top applications of machine.
-So, I focused on building a Time-Efficient and approximate stock predictions, for google stocks with the RNN using LSTM Keras model
+
 
       
 <p align="center">
   <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/1652530267151.jpg" width="400" height="240" >
 </p>
-
+Stock price analysis has been a critical area of research and is one of the top applications of machine.
+So, I focused on building a Time-Efficient and approximate stock predictions, for google stocks with the RNN using LSTM Keras model.
 <h2>ABOUT</h2>
 
 **What is the Stock Market?**
@@ -30,7 +30,10 @@ The stock exchange is the mediator that allows the buying and selling of shares.
   <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/InteloneAPI.jpg" width="400" height="240" >
 </p>
 
-The Intel® OneAPI toolkit, Intel® OpenVINO toolkit enables models to be trained in a more efficient way and results in faster training times. ADAM optimization algorithm is used and a MSE loss function is optimized.
+The [Intel® OneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#gs.3btkxe), [Intel® OpenVINO toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html) enables models to be trained in a more efficient way and results in faster training times. ADAM optimization algorithm is used and a MSE loss function is optimized.
+
+
+
 
 
 <h2>METHODOLOGY</h2>
