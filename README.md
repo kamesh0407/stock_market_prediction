@@ -4,7 +4,10 @@
 Stock price analysis has been a critical area of research and is one of the top applications of machine.
 So, I focused on building a Time-Efficient and approximate stock predictions, for google stocks with the RNN using LSTM Keras model
 
-
+      
+<p align="center">
+  <img src="https://github.com/kamesh0407/stock_market_prediction/blob/main/1652530267151.jpg" width="400" height="240" >
+</p>
 
 <h2>ABOUT</h2>
 
